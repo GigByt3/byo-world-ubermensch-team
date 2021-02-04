@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 707064379250554906}
   - component: {fileID: 2052129673660573024}
   m_Layer: 0
-  m_Name: Terrain
+  m_Name: Arc of Life
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
